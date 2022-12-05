@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Part 1 --- Morphological Type}{5}{0}{1}
+\beamer@subsectionintoc {1}{1}{Morphological Type}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Examples}{7}{0}{1}
+\beamer@sectionintoc {2}{Part 2 --- Morphological Processes}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Verb Conjugation}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Derivational Affixes}{13}{0}{2}
+\beamer@subsectionintoc {2}{3}{Non-concatenative Process: the Illative Case}{16}{0}{2}
+\beamer@subsectionintoc {2}{4}{Allomorphs of the Nominalization Suffix}{17}{0}{2}
+\beamer@sectionintoc {3}{Sources}{22}{0}{3}
